@@ -17,7 +17,7 @@ class App extends React.Component {
             style={{
               padding: 24,
               margin: 0,
-              height: 800,
+              height: 600,
               overflow: "auto",
             }}
           >
